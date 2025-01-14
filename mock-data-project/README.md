@@ -37,9 +37,13 @@ mock-data-project
 
 ### Using the Excel Sheet
 
-- Open `example.xlsx` in Excel.
+- Open `vlookup_pivot_practice.xlsx` in Excel.
 - The sheet contains examples of how to use the VLOOKUP and INDEX functions with the mock data.
 - Follow the instructions in the Excel file to see practical applications of these functions.
+
+### Using the Google Sheet
+
+ - https://docs.google.com/spreadsheets/d/1v0cXv_VNToJgvKRDEi0vh7ht15pwB4CphKceNlPQ08E/edit?usp=sharing
 
 ## Contributing
 
