@@ -38,7 +38,9 @@ mock-data-project
 ### Using the Excel Sheet
 
 - Open `vlookup_pivot_practice.xlsx` in Excel.
+- Added the individual csv from the sheet if someone is interested in those
 - The sheet contains examples of how to use the VLOOKUP and INDEX functions with the mock data.
+- The other sheets include other functions like SUMIF, AVERAGEIF, etc
 - Follow the instructions in the Excel file to see practical applications of these functions.
 
 ### Using the Google Sheet
