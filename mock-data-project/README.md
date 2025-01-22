@@ -34,6 +34,7 @@ mock-data-project
    ```
 
 4. This will create the `mock_data.csv` file in the `data` directory.
+5. Navigate to the directory scripts, and run the clean_data.py to clean up the currency columns, this step is optional and can be done in PowerBI or Sheets. This will create a cleaned_data.csv in your data directory.
 
 ### Using the Excel Sheet
 
@@ -46,6 +47,13 @@ mock-data-project
 ### Using the Google Sheet
 
  - https://docs.google.com/spreadsheets/d/1v0cXv_VNToJgvKRDEi0vh7ht15pwB4CphKceNlPQ08E/edit?usp=sharing
+ - https://docs.google.com/spreadsheets/d/1v0cXv_VNToJgvKRDEi0vh7ht15pwB4CphKceNlPQ08E/export?format=xlsx&gid=843526048
+ - The above link will allow you to import the data into PowerBI and refresh any changes that are made in the sheet into the dashboard
+ - Connecting Google Sheet to PowerBI -> Get Data -> Web 
+ - Enter https://docs.google.com/spreadsheets/d/1v0cXv_VNToJgvKRDEi0vh7ht15pwB4CphKceNlPQ08E/export?format=xlsx&gid=843526048
+ - Click Connect
+ - Manually refresh or schedule a refresh to see he changes in sheets reflected in the practice_charting.pbix
+
 
 ## Contributing
 
